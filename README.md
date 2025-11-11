@@ -33,7 +33,7 @@ Data is displayed on an **OLED SSD1306** screen, visualized with an **RGB LED**,
 
 ## Functional Overview
 
-### 🌤 Sensor Readings & Display
+### Sensor Readings & Display
 
 - **DHT11** → Reads temperature (°C) and humidity (%).
 - **LDR** → Reads light intensity (0–4095) and maps it to percentage (100% = bright, 0% = dark).
@@ -153,10 +153,10 @@ Make sure to install these libraries in **Arduino IDE** or **PlatformIO**:
 
 | Field            | Information                              |
 | ---------------- | ---------------------------------------- |
-| **Project Name** | Smart Environment Monitor                |
+| **Project Name** | Smart Environment Monitor (IoT / Embedded Systems Project) |
 | **Platform**     | ESP32                                    |
 | **Tools Used**   | Arduino IDE / PlatformIO                 |
-| **Developer**    | Student (IoT / Embedded Systems Project) |
+| **Developer**    | Dang Bach Tran  |
 
 ---
 
